@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Islamic Alarm</string>
+    <string name="add_alarm">নতুন এলার্ম</string>
+    <string name="edit_alarm">এলার্ম সম্পাদনা</string>
+    <string name="save">সেভ করুন</string>
+    <string name="cancel">বাতিল</string>
+    <string name="delete">ডিলিট</string>
+    <string name="no_alarms">কোনো এলার্ম নেই। + বাটনে চাপ দিয়ে একটা যোগ করুন।</string>
+    <string name="label_optional">লেবেল (ঐচ্ছিক)</string>
+    <string name="label_hint">যেমনঃ ফজর, জিকির, কুরআন তিলাওয়াত</string>
+    <string name="lock_duration_minutes">স্ক্রিন লক থাকবে (মিনিট)</string>
+    <string name="duration_label_format">%1$d মিনিট লক · %2$s</string>
+    <string name="prayer_time_now">এখন নামাজের সময়</string>
+    <string name="quran_verse">إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَّوْقُوتًا</string>
+</resources>
